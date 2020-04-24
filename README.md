@@ -1,2 +1,2 @@
 # guillewtf.github.io
-[guille.wtf](guille.wtf)
+[guille.wtf](http://guille.wtf)
