@@ -37,5 +37,5 @@
             transform: rotate(360deg);
           }
         }
-      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"App","children":[["$","style",null,{"children":"$2"}],["$","header",null,{"className":"App-header","children":["$","p",null,{"className":"App-logo","children":"G! v2"}]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"SaLO4Y-t2yyPDe3CiM3zJ"}
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"App","children":[["$","style",null,{"children":"$2"}],["$","header",null,{"className":"App-header","children":["$","p",null,{"className":"App-logo","children":"G! v2"}]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wcXD8ZMHrANZnriDJdrJL"}
 5:null
