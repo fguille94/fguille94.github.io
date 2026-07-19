@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+3:I[44657,["/_next/static/chunks/322-tm-sp2zn9.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+2:T426,
+        html, body {
+          padding: 0;
+          margin: 0;
+          text-decoration: none;
+          background-color: #333;
+        }
+        * {
+          box-sizing: border-box;
+        }
+        .App {
+          min-height: 100vh;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          text-align: center;
+        }
+        .App-logo {
+          animation: App-logo-spin infinite 5s linear;
+          height: 15vmin;
+          color: white;
+          font-size: calc(20px + 5vmin);
+          font-weight: lighter;
+          font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Oxygen", "Segoe UI", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+          -webkit-font-smoothing: antialiased;
+          -moz-osx-font-smoothing: grayscale;
+          pointer-events: none;
+        }
+        @keyframes App-logo-spin {
+          from {
+            transform: rotate(0deg);
+          }
+          to {
+            transform: rotate(360deg);
+          }
+        }
+      0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"App","children":[["$","style",null,{"children":"$2"}],["$","header",null,{"className":"App-header","children":["$","p",null,{"className":"App-logo","alt":"logo","children":"G!"}]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"WPDrZMGPaRohGjjOwaApi"}
+5:null
